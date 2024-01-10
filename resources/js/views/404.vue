@@ -1,0 +1,3 @@
+<template>
+    <h1>404 Error Page</h1>
+</template>
